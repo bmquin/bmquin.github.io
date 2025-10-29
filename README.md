@@ -11,9 +11,11 @@ The premise of this project was to create an app that would detect when students
 
 The Devpost for the project can be found here: [HandRaising Devpost](https://devpost.com/software/hand-raise-detector)
 
-The video demo for the project can be seen here: [HandRaising Demo](https://www.youtube.com/watch?v=gSwshPCv66M)
+The video demo for the project can be seen here: [![HandRaising Demo](handraised_dm.png)](https://www.youtube.com/watch?v=gSwshPCv66M "handraising video demo")
 
 ### M Programming Language
+Developed for Project Lauch Spring 2025
 
 
 ### MANUS Assistive Robotic Arm 
+more coming soon :3
